@@ -19,12 +19,11 @@ The app has several features which users can interact with:
 ### File Contents 
 This repository contains:
 -   **README.md** 
--   **app.R** This is the folder containing the app.R file necessary for the Gapminder App.
-
+-   **Gapminder_App** This is the folder containing the app.R file with source code for the Gapminder App.
 
 ### How to Access
-The easiest way to interact with the app is on the shinyapps.io server. 
-In order to investigate the code, first clone the repository to your device and open the file after cloning it to your device. Make sure to install any necessary packages. The required packages are: 
+The easiest way to interact with the app is on the shinyapps.io server (see link above). 
+In order to investigate the code, first clone the repository to your device and open the app.R file in your desired IDE. Make sure to install any necessary packages. The required packages are: 
 -   gapminder
 -   shiny
 -   tidyverse
