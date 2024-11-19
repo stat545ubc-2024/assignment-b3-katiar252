@@ -4,10 +4,14 @@ Author: Katia Rosenflanz
 
 Date: November 18, 2024
 
-### **Overview**
-This repository contains a Shiny App (Gapminder_App) for the STAT 545 course at UBC. 
+### Overview
+This repository contains a Shiny App (Gapminder_App) for the STAT 545 course at UBC using the Gapminder Package. 
 The app is deployed online at shinyapps.io and can be accessed using the following link: 
 https://stat545-katiar.shinyapps.io/Gapminder_App/ 
+
+### Dataset Acknowledgment
+The Gapminder App uses the Gapminder dataset, which contains data on countries worldwide from 1952 to 2007 (extracted from Gapminder.org). 
+The dataset is available through the Gapminder package in R. 
 
 ### Functionality
 The app has several features which users can interact with:
@@ -19,7 +23,7 @@ The app has several features which users can interact with:
 ### File Contents 
 This repository contains:
 -   **README.md** 
--   **Gapminder_App** This is the folder containing the app.R file with source code for the Gapminder App.
+-   **Gapminder_App** This is the folder containing the app.R file with source code for the app.
 
 ### How to Access
 The easiest way to interact with the app is on the shinyapps.io server (see link above). 
